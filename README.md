@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/)
 
-- 🌱 I’m currently learning **Remote Sensing applied to coastal zone** at Federal University of Rio Grande do Sul
+- 🌱 I’m currently learning **Remote Sensing applied to coastal zone**
 
 - 📫 How to reach me **lais.pool@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lais pool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lais pool" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lais-pool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lais-pool" height="30" width="40" /></a>
 <a href="https://instagram.com/laispool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laispool" height="30" width="40" /></a>
 </p>
 
