@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/laispool/laispool/blob/output/github-contribution-grid-snake.svg) 
-
 <h1 align="center">Hi, I'm Laís Pool</h1>
 <h3 align="center">A passionate coastal researcher from Brazil</h3>
 
