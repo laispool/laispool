@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laís Pool</h1>
 <h3 align="center">A passionate coastal researcher from Brazil</h3>
 
-- 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/) and [CASSIE Core] (https://cassiengine.org/)
+- 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/) and [CASSIE Core](https://cassiengine.org/)
 
 - 🌱 I’m currently learning **Remote Sensing applied to coastal zone**
 
