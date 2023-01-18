@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Laís Pool</h1>
 <h3 align="center">A passionate coastal researcher from Brazil</h3>
 
-- 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/)
+- 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/) and [CASSIE Core] (https://cassiengine.org/)
 
 - 🌱 I’m currently learning **Remote Sensing applied to coastal zone**
 
 - 📫 How to reach me **lais.pool@gmail.com**
 
-- 📄 Know about my experiences [http://lattes.cnpq.br/5847904662794834](http://lattes.cnpq.br/5847904662794834)
+- 📄 Know more about my experiences [http://lattes.cnpq.br/5847904662794834](http://lattes.cnpq.br/5847904662794834)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
