@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [RiskPorts](https://riskports.ufsc.br/) and [CASSIE Core](https://cassiengine.org/)
 
-- 🌱 I’m currently learning **Remote Sensing applied to coastal zone**
+- 🌱 Learning about **Remote Sensing applied to coastal zone**
 
-- 📫 How to reach me **lais.pool@gmail.com**
+- 📫 How to reach me: **lais.pool@gmail.com**
 
-- 📄 Know more about my experiences [http://lattes.cnpq.br/5847904662794834](http://lattes.cnpq.br/5847904662794834)
+- 📄 You can know more about my experiences at [Linkedin](https://www.linkedin.com/in/lais-pool/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
